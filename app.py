@@ -3,7 +3,7 @@ import pickle
 import numpy as np
 
 # Title of the app
-st.title('david John')
+st.title('ASONGA')
 
 # Load the saved model (this assumes model.pkl is in the same folder)
 try:
